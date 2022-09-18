@@ -10,7 +10,7 @@ using namespace std;
 
 //--------------------------------Manually to be edited
 string version = "V1.0";
-string dev_team = "Barret Klics, Toshi Biwas, Tanish Datta, Sam Schroeder";
+string dev_team = "Barret Klics, Toshi Biswas, Tanish Datta, Sam Schroeder";
 string release_date = "June 16th 2021";
 //-----------------------------------------------------------------------------------
 
